@@ -1,1 +1,1 @@
-Repository storing Administrative Stuff for 02 Scouts.
+Repository for linking off and for file hosting.
