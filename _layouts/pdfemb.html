@@ -2,12 +2,20 @@
 <html> 
   
 <body> 
+  <style>
+        body {
+            font-family: sans-serif;
+            max-width: 40em;
+            margin: 1em auto;
+        }
+    </style>
     <center> 
         <h1 style="color: LightSkyBlue">{{page.title}}</h1> 
         <h3>{{page.filedesc}}</h3> 
         <iframe src= "{page.file}" 
-                width="800"
-                height="1080"> 
+                width="100%"
+                height="100%"
+                style="position:absolute; top:0; left: 0">
         </iframe> 
     </center> 
 </body> 
