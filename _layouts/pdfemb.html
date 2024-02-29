@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Your title</title>
+  <title>{{page.title}}</title>
   <meta charset="utf-8"/>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
   <script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
@@ -14,7 +14,7 @@
       adobeDCView.previewFile(
      {
          content:  {location: {url: "{{page.file}}"}},
-         metaData: {fileName: "{{page.title}}"}
+         metaData: {fileName: "{{page.filename}}"}
      }, {showAnnotationTools: false});
    });
   </script>
