@@ -1,5 +1,5 @@
 ---
 layout: pdfemb
 title: March Camp 2024 Packlist
-file: https://raw.githubusercontent.com/matsq4/02host/main/_docs/02MarchCamp2024_Packlist.pdf 
+file: https://nbviewer.org/github/matsq4/02host/blob/main/_docs/02MarchCamp2024_Packlist.pdf
 ---
