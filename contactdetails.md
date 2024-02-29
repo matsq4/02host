@@ -1,6 +1,6 @@
 ---
 layout: forward
-target: https://forms.gle/B5ELQzrKyNiswJ3M7
-message: Powered by GitHub
+target: https://forms.gle/yeZxiTW72tAmg4dP8
+message: Please wait whilst we redirect you.
 ---
 
