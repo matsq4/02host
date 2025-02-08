@@ -1,11 +1,10 @@
-title: 02filehost
+title: 02 Scouts Host
 author:
   name: 02 Raffles Scout Group
-  email: hello@02scouts.org
+  email: 02raffles.gsl@gmail.com
   
 description:
-  (c) matt group webdev 2023-2024
-  No part of this site shall be reproduced in any way, shape or form.
+  (c) matt group webdev 2023-2025
   
 remote_theme: jekyll/minima
 plugins:
