@@ -9,8 +9,7 @@ permalink: /docs/IPCSSys
 > A simple, user-intuitive system for quick score summing. 
 
 ### Description
-This system was created for logging of IPS scores. Simply submit a new entry to the form every time an activity is completed, with the scores of each patrol. Simple, easy and portable.
-Scores can be reviewed at www.mattwyz.xyz/02/IPS
+This system was created for logging of IPS scores. Simply submit a new entry to the form every time an activity is completed, with the scores of each patrol.
 
 #### Quick Links
 **[Documentation](https://host.02scouts.org/docs/IPCSSys)**
@@ -67,7 +66,5 @@ o	South Area Field/Games Day, etc.
 ### • Miscellaneous:
 o	Birthday Bash
   > 380 marks rebased to 80 marks.
-
-Data is not held on to for any period of time longer than needed.
 
 > ©️ 02 Scouts 2023-2025
