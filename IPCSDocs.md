@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Inter-Patrol Shield Score System ⚜️"
-permalink: /docs/IPSSys
+title: "Inter-Patrol Challenge Shield Score System ⚜️"
+permalink: /docs/IPCSSys
 ---
 
 ![IPSBanner](https://github.com/matsq4/matt_wyz/assets/139704779/1b45f3b0-6ca6-4d14-be30-4dd4448ba6c5)
