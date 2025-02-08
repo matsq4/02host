@@ -13,17 +13,17 @@ This system was created for logging of IPS scores. Simply submit a new entry to 
 Scores can be reviewed at www.mattwyz.xyz/02/IPS
 
 #### Quick Links
-**[Documentation](https://www.mattwyz.xyz/docs/IPSSys)**
+**[Documentation](https://host.02scouts.org/docs/IPCSSys)**
 
-**[Form](https://www.mattwyz.xyz/IPSform)**
+**[Form](https://forms.gle/NpzYkjQh7D8xXbvH6)**
 
-**[Score Page](https://host.02scouts.org/IPS)**
+**[Score Page](https://host.02scouts.org/IPCS)**
 
-**Support:** Matthew W. ([matt@matsq4group.com](mailto:matt@matsq4group.com))
+**System Support:** Matthew ([matthew@mattgrp.com](mailto:matthew@mattgrp.com))
 
 
 ### Usage Guide
-  1. Open the form at https://www.mattwyz.xyz/IPSform
+  1. Open the form at https://forms.gle/NpzYkjQh7D8xXbvH6
   2. Once opened, tick the "Record Email" box, this is to track for misuse.
   3. Fill up all information.
   4. Ensure properly recorded.
@@ -70,4 +70,4 @@ o	Birthday Bash
 
 Data is not held on to for any period of time longer than needed.
 
-> ©️ 02 Scouts/matthew w. 2023-2025
+> ©️ 02 Scouts 2023-2025
