@@ -1,16 +1,28 @@
-title: 02 Scouts Filehost
+title: matt_wyz
 author:
-  name: 02 Raffles Scouts
-  email: hello@02scouts.org
+  name: Matthew W.
+  email: matthew@mattwyz.xyz
   
 description:
-  a matt group webdev site - (c) 2023-2025
-  No part of this site shall be reproduced in any way, shape or form.
+  (c) matthew w. 2023-2025
+  Powered by Github Pages
+  
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
   
 logo: /favicon.png
 
 header_pages:
   - index.md
-  - IPCS.md
-  - sotwarchive.md
-  - 02sotw.md
+  - about.md
+  - projects.md
+
+minima:
+  skin: auto
+
+  minima:
+  social_links:
+    - { platform: instagram, user_url: "https://instagram.com/matt_wyz" }
+    - { platform: twitter, user_url: "https://twitter.com/matt_wyz" }
+    - { platform: youtube, user_url: "https://youtube.com/@matt_wyz"}
