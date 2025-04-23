@@ -1,10 +1,11 @@
-title: 02 Scouts Host
+title: 02 Scouts Filehost
 author:
-  name: 02 Raffles Scout Group
-  email: 02raffles.gsl@gmail.com
+  name: 02 Raffles Scouts
+  email: hello@02scouts.org
   
 description:
-  (c) matt group webdev 2023-2025
+  a matt group webdev site - (c) 2023-2025
+  No part of this site shall be reproduced in any way, shape or form.
   
 remote_theme: jekyll/minima
 plugins:
@@ -15,11 +16,12 @@ logo: /favicon.png
 header_pages:
   - index.md
   - IPCS.md
+  - sotwarchive.md
+  - 02sotw.md
 
 minima:
-  skin: solarized-light
+  skin: solarized
 
   minima:
   social_links:
     - { platform: instagram, user_url: "https://instagram.com/02rafflesscouts" }
-    - { platform: youtube, user_url: "https://youtube.com/@matt_wyz" }
