@@ -12,9 +12,7 @@ plugins:
   
 logo: /favicon.png
 
-header_pages:
-  - index.md
-  - IPCS.md
+
 
 minima:
   skin: solarized-light
