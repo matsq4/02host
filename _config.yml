@@ -7,10 +7,6 @@ description:
   a matt group webdev site - (c) 2023-2025
   No part of this site shall be reproduced in any way, shape or form.
   
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
-  
 logo: /favicon.png
 
 header_pages:
@@ -18,11 +14,3 @@ header_pages:
   - IPCS.md
   - sotwarchive.md
   - 02sotw.md
-
-minima:
-  skin: solarized
-
-  minima:
-  social_links:
-    - { platform: instagram, user_url: "https://instagram.com/02rafflesscouts" }
-    - { platform: youtube, user_url: "https://youtube.com/@matt_wyz" }
