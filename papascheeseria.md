@@ -1,5 +1,5 @@
 ---
-layout: awayfl
+layout: flashcontent
 title: Papa's Cheeseria
-file: https://i.flipline.com/gamefiles/papascheeseria/papascheeseria_102.swf
+file: https://host.02scouts.org/files/papascheeseria_102.swf
 ---
